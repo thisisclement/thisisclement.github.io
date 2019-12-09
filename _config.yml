@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Clement Ow"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ga_portait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Singapore"
   email            : "clementow.zs@gmail.com"
