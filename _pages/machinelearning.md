@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-science-projects/
+permalink: /data-wrangling/
 title: "Past Data Science Projects"
 author_profile: true
 header:
